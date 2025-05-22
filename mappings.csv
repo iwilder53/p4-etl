@@ -1,0 +1,104 @@
+,,file_name,prefix,labels_en,label_ja,fname,source_file,sheet_name,Translation
+0,,JFE_M030_品種.xlsx,JFE_M030,Jfe_M030_ProductType,品種マスター,EKINDF,JFE_10_EKINDF,JFE_M030_品種.xlsx,return file
+1,,JFE_M040_在庫.xlsx,JFE_M040,Jfe_M040_Inventory,在庫マスター,EITEMF,JFE_07_EITEMF,JFE_M040_在庫.xlsx,product master
+2,,JFE_M050_メーカー.xlsx,JFE_M050,Jfe_M050_Maker,メーカーマスター,EMAKF,JFE_22_EMAKF,JFE_M050_メーカー.xlsx,Next month's issue file
+3,,JFE_M070_需要家.xlsx,JFE_M070,Jfe_M070_Consumer,需要家マスター,ECONF,JFE_01_ECONF,JFE_M070_需要家.xlsx,#REF!
+4,,JFE_T010_在庫明細.xlsx,JFE_T010,Jfe_T010_WharehouseDetail,在庫明細ファイル,EKAWAF,JFE_08_EKAWAF,JFE_T010_在庫明細.xlsx,inventory master
+5,,JFE_T020_パレット.xlsx,JFE_T020,Jfe_T020_Pallet,パレットファイル,EPLTF,JFE_24_EPLTF,JFE_T020_パレット.xlsx,Order data file
+6,,JFE_T030_シンナー明細.xlsx,JFE_T030,Jfe_T030_ThinnerDetail,シンナー明細ファイル,ETHINF,JFE_25_ETHINF,JFE_T030_シンナー明細.xlsx,palette file
+7,,JFE_T040_JFE用店舗住所.xlsx,JFE_T040,Jfe_T040_BranchStoreAddress,ＪＦＥ用　店舗住所ファイル,KEJF,JFE_29_KEJF,JFE_T040_JFE用店舗住所.xlsx,Preliminary issue file
+8,,JFE_T060_受発注.xlsx,JFE_T060,Jfe_T060_OrderReceived,受発注データファイル,EORDERF,JFE_23_EORDERF,JFE_T060_受発注.xlsx,maker master
+9,,JFE_T080_入庫.xlsx,JFE_T080,Jfe_T080_StockIn,入庫ファイル,EKINKF,JFE_11_EKINKF,JFE_T080_入庫.xlsx,breed master
+10,,JFE_T081_当月入庫.xlsx,JFE_T081,Jfe_T081_ThisMonthStockIn,当月入庫ファイル,EKITNKF,JFE_17_EKITNKF,JFE_T081_当月入庫.xlsx,Current month return file
+11,,JFE_T082_翌月入庫.xlsx,JFE_T082,Jfe_T082_NextMnthStockIn,翌月入庫ファイル,EKIYNKF,JFE_20_EKIYNKF,JFE_T082_翌月入庫.xlsx,Next month return file
+12,,JFE_T083_累積入庫.xlsx,JFE_T083,Jfe_T083_CumStockIn,累積入庫ファイル,EKIRNKF,JFE_13_EKIRNKF,JFE_T083_累積入庫.xlsx,cumulative return file
+13,,JFE_T084_予備入庫.xlsx,JFE_T084,Jfe_T084_ReserveStockIn,予備入庫ファイル,EYNKF,JFE_27_EYNKF,JFE_T084_予備入庫.xlsx,preliminary return file
+14,,JFE_T090_出庫.xlsx,JFE_T090,Jfe_T090_StockOut,出庫ファイル,EKISKF,JFE_15_EKISKF,JFE_T090_出庫.xlsx,Cumulative issue file
+15,,JFE_T091_当月出庫.xlsx,JFE_T091,Jfe_T091_ThisMnthStockOut,当月出庫ファイル,EKITSKF,JFE_18_EKITSKF,JFE_T091_当月出庫.xlsx,Current month inventory file                                    
+16,,JFE_T092_翌月出庫.xlsx,JFE_T092,Jfe_T092_NextMnthStockOut,翌月出庫ファイル,EKIYSKF,JFE_21_EKIYSKF,JFE_T092_翌月出庫.xlsx,Next month's receipt file
+17,,JFE_T093_累積出庫.xlsx,JFE_T093,Jfe_T093_CumStockOut,累積出庫ファイル,EKIRSKF,JFE_14_EKIRSKF,JFE_T093_累積出庫.xlsx,Cumulative receipt file
+18,,JFE_T094_予備出庫.xlsx,JFE_T094,Jfe_T094_ReserveStockOut,予備出庫ファイル,EYSKF,JFE_28_EYSKF,JFE_T094_予備出庫.xlsx,Preliminary receipt file
+19,,JFE_T100_戻り.xlsx,JFE_T100,Jfe_T100_Return,戻りファイル,EKIMRF,JFE_09_EKIMRF,JFE_T100_戻り.xlsx,Inventory details file
+20,,JFE_T101_当月戻り.xlsx,JFE_T101,Jfe_T101_ThisMonthReturn,当月戻りファイル,EKITMRF,JFE_16_EKITMRF,JFE_T101_当月戻り.xlsx,Outbound file
+21,,JFE_T102_翌月戻り.xlsx,JFE_T102,Jfe_T102_NextMnthReturn,翌月戻りファイル,EKIYMRF,JFE_19_EKIYMRF,JFE_T102_翌月戻り.xlsx,Current month issue file
+22,,JFE_T103_累積戻り.xlsx,JFE_T103,Jfe_T103_CumReturn,累積戻りファイル,EKIRMRF,JFE_12_EKIRMRF,JFE_T103_累積戻り.xlsx,Receipt file
+23,,JFE_T104_予備戻り.xlsx,JFE_T104,Jfe_T104_ReturnToReserve,予備戻りファイル,EYMRF,JFE_26_EYMRF,JFE_T104_予備戻り.xlsx,Thinner details file
+24,,JFE_M010_商品.xlsx,JFE_M010,Jfe_M010_Product,商品,,JFE_06_EGOODSF,JFE_M010_商品.xlsx,product
+25,,T040_発注伝票共通.xlsx,T040,T040_order_slip_common,発注伝票共通,,B01_THAHDPF,T040_発注伝票共通.xlsx,
+26,,T041_発注伝票明細.xlsx,T041,T041_order_slip_detail,発注伝票明細,,B02_THABDPF,T041_発注伝票明細.xlsx,
+27,,T050_入庫伝票共通.xlsx,T050,T050_stock_in_slip_common,入庫伝票共通,,B03_TNYHDPF,T050_入庫伝票共通.xlsx,
+28,,T051_入庫伝票明細.xlsx,T051,T051_stock_in_slip_detail,入庫伝票明細,,B04_TNYBDPF,T051_入庫伝票明細.xlsx,
+29,,T060_仕入伝票共通.xlsx,T060,T060_purchase_slip_common,仕入伝票共通,,B05_TSIHDPF,T060_仕入伝票共通.xlsx,
+30,,T061_仕入伝票明細.xlsx,T061,T061_purchase_slip_details,仕入伝票明細,,B06_TSIBDPF,T061_仕入伝票明細.xlsx,
+31,,T080_出庫伝票共通.xlsx,T080,T080_stock_out_slip_common,出庫伝票共通,,B09_TSUHDPF,T080_出庫伝票共通.xlsx,
+32,,T081_出庫伝票明細.xlsx,T081,T081_stock_out_slip_details,出庫伝票明細,,B10_TSUBDPF,T081_出庫伝票明細.xlsx,
+33,,T082_出庫商品明細.xlsx,T082,T082_stock_out_product_detail,出庫商品明細,,B11_TSUSMPF,T082_出庫商品明細.xlsx,
+34,,T083_出庫在庫引当明細.xlsx,T083,T083_stock_out_ia_details,出庫在庫引当明細,,B12_TSUZMPF,T083_出庫在庫引当明細.xlsx,
+35,,T090_売上伝票共通.xlsx,T090,T090_sales_slip_common,売上伝票共通,,B13_TURHDPF,T090_売上伝票共通.xlsx,
+36,,T091_売上伝票明細.xlsx,T091,T091_sales_slip_details,売上伝票明細,,B14_TURBDPF,T091_売上伝票明細.xlsx,
+37,,T092_売上商品明細.xlsx,T092,T092_sales_product_details,売上商品明細,,B15_TURSMPF,T092_売上商品明細.xlsx,
+38,,T093_売上在庫引当明細.xlsx,T093,T093_sales_ia_details,売上在庫引当明細,,B16_TURZMPF,T093_売上在庫引当明細.xlsx,
+39,,T100_商品組立共通.xlsx,T100,T100_product_assembly_common,商品組立共通,,B17_TKMHDPF,T100_商品組立共通.xlsx,
+40,,T101_商品組立明細.xlsx,T101,T101_product_assembly_details,商品組立明細,,B18_TKMBDPF,T101_商品組立明細.xlsx,
+41,,T110_商品解体共通.xlsx,T110,T110_product_dis_common,商品解体共通,,B19_TKTHDPF,T110_商品解体共通.xlsx,
+42,,T111_商品解体明細.xlsx,T111,T111_product_dis_details,商品解体明細,,B20_TKTBDPF,T111_商品解体明細.xlsx,
+43,,T120_店舗移動.xlsx,T120,T120_store_transfer,店舗移動,,B21_TTIDOPF,T120_店舗移動.xlsx,
+44,,T130_倉庫移動.xlsx,T130,T130_warehouse_transfer,倉庫移動,,B22_TSIDOPF,T130_倉庫移動.xlsx,
+45,,T140_在庫調整.xlsx,T140,T140_inventory_adjustment,在庫調整,,B23_TZCHOPF,T140_在庫調整.xlsx,
+46,,T160_振替伝票.xlsx,T160,T160_transfer_slip,振替伝票,,B24_TFURIPF,T160_振替伝票.xlsx,
+47,,T230_在庫受払明細.xlsx,T230,T230_inventory_rp_detail,在庫受払明細,,B29_TZUKHPF,T230_在庫受払明細.xlsx,
+48,,T240_預け在庫受払明細.xlsx,T240,T240_iod_rp_detail,預け在庫受払明細,,B45_TAZSUPF,T240_預け在庫受払明細.xlsx,
+49,,T250_預かり在庫受払明細.xlsx,T250,T250_reserve_stock_rp_details,預かり在庫受払明細,,B46_TAZTUPF,T250_預かり在庫受払明細.xlsx,
+50,,T260_請求残高消込.xlsx,T260,T260_billing_balance_erasure,請求残高消込,,B30_TSZANPF,T260_請求残高消込.xlsx,
+51,,T270_支払残高.xlsx,T270,T270_payment_balance,支払残高,,B31_THZANPF,T270_支払残高.xlsx,
+52,,T310_ダイキョー_受注データ.xlsx,T310,T310_daikyo_so_data,ダイキョー_受注データ,,B38_TDJYUPF,T310_ダイキョー_受注データ.xlsx,
+53,,T320_ダイキョー_出庫指示共通.xlsx,T320,T320_daikyo_soi_common,ダイキョー_出庫指示共通,,B39_TDSHDPF,T320_ダイキョー_出庫指示共通.xlsx,
+54,,T321_ダイキョー_出庫指示明細.xlsx,T321,T321_daikyo_soi_details,ダイキョー_出庫指示明細,,B40_TDSBDPF,T321_ダイキョー_出庫指示明細.xlsx,
+55,,T330_本社支払依頼.xlsx,T330,T330_ho_payment_req,本社支払依頼,,B41_THIRAPF,T330_本社支払依頼.xlsx,
+56,,T340_本社支払依頼集計.xlsx,T340,T340_ho_payment_req_tally,本社支払依頼集計,,B42_THIRSPF,T340_本社支払依頼集計.xlsx,
+57,,T350_店舗支払依頼.xlsx,T350,T350_store_payment_req,店舗支払依頼,,B49_TTIRAPF,T350_店舗支払依頼.xlsx,
+58,,T360_支払手形伝票明細.xlsx,T360,T360_bill_payable_voucher_detail,支払手形伝票明細,,B43_TSIHTPF,T360_支払手形伝票明細.xlsx,
+59,,T370_支払振込伝票.xlsx,T370,T370_payment_transfer_slip,支払振込伝票,,B44_TSFURPF,T370_支払振込伝票.xlsx,
+60,,T380_回収遅延.xlsx,T380,T380_delay_collection,回収遅延,,B47_TCIENPF,T380_回収遅延.xlsx,
+61,,T390_過入金.xlsx,T390,T390_overpayment,過入金,,B48_TKNYUPF,T390_過入金.xlsx,
+62,,T010_一般用見積伝票共通.xlsx,T010,T010_gu_qt_slip_common,一般用見積伝票共通,,B07_TMTHDPF_01,T010_一般用見積伝票共通.xlsx,
+63,,T011_一般用見積伝票明細.xlsx,T011,T011_gu_qt_slip_detail,一般用見積伝票明細,,B08_TMTBDPF_01,T011_一般用見積伝票明細.xlsx,
+64,,T030_工事用見積伝票共通.xlsx,T030,T030_const_qt_slip_common,工事用見積伝票共通,,B07_TMTHDPF_02,T030_工事用見積伝票共通.xlsx,
+65,,T031_工事用見積伝票明細.xlsx,T031,T031_const_qt_slip_detail,工事用見積伝票明細,,B08_TMTBDPF_02,T031_工事用見積伝票明細.xlsx,
+66,,T280_売掛残高.xlsx,T280,T280_receivable_balance,売掛残高,,B32_TTKZNPF,T280_売掛残高.xlsx,
+67,,T290_買掛残高.xlsx,T290,T290_payable_balance,買掛残高,,B33_TSRZNPF,T290_買掛残高.xlsx,
+68,,M010_会社条件マスタ,M010,m010_company_condition,会社条件マスタ,,A02_MKAISPF,M010_会社条件マスタ.xlsx,
+69,,M020_名称マスタ,M020,m020_name,名称マスタ,,A03_MMEISPF,M020_名称マスタ.xlsx,
+70,,M030_番号管理マスタ,M030,m030_number_management,番号管理マスタ,,A04_MBANGPF,M030_番号管理マスタ.xlsx,
+71,,M040_権限マスタ,M040,m040_authority,権限マスタ,,A05_MKENGPF,M040_権限マスタ.xlsx,
+72,,m050_店舗マスタ,M050,m050_office,店舗マスタ,,A06_MTENPPF,m050_店舗マスタ.xlsx,
+73,,m060_締日管理マスタ,M060,m060_closing_date,締日管理マスタ,,A07_MSIMEPF,m060_締日管理マスタ.xlsx,
+74,,m070_担当者マスタ,M070,m070_user,担当者マスタ,,A08_MTANTPF,m070_担当者マスタ.xlsx,
+75,,m080_銀行マスタ,M080,m080_bank,銀行マスタ,,A09_MBANKPF,m080_銀行マスタ.xlsx,
+76,,m090_科目マスタ,M090,m090_account,科目マスタ,,A10_MKMKPF,m090_科目マスタ.xlsx,
+77,,m100_補助科目マスタ,M100,m100_sub_account,補助科目マスタ,,A11_MHKMKPF,m100_補助科目マスタ.xlsx,
+78,,m120_得意先マスタ,M120,m120_customer,得意先マスタ,,A15_MTOKUPF,m120_得意先マスタ.xlsx,
+79,,m121_得意先担当者マスタ,M121,m121_customer_charge,得意先担当者マスタ,,A16_MTTANPF,m121_得意先担当者マスタ.xlsx,
+80,,m130_仕入先マスタ,M130,m130_supplier,仕入先マスタ,,A18_MSIIRPF,m130_仕入先マスタ.xlsx,
+81,,m131_仕入先担当者マスタ,M131,m131_supplier_charge,仕入先担当者マスタ,,A19_MSTANPF,m131_仕入先担当者マスタ.xlsx,
+82,,m140_商品マスタ,M140,m140_products,商品マスタ,,A21_MSYOHPF,m140_商品マスタ.xlsx,
+83,,m150_店舗別商品補助マスタ,M150,m150_office_product_supplement,店舗別商品補助マスタ,,A22_MTENSPF,m150_店舗別商品補助マスタ.xlsx,
+84,,m160_倉庫マスタ,M160,m160_stockroom,倉庫マスタ,,A24_MSOKOPF,m160_倉庫マスタ.xlsx,
+85,,m170_在庫マスタ,M170,m170_stock,在庫マスタ,,A25_MZAIKPF,m170_在庫マスタ.xlsx,
+86,,m180_預かり在庫マスタ,M180,m180_remaining_stock,預かり在庫マスタ,,A26_MAZATPF,m180_預かり在庫マスタ.xlsx,
+87,,m190_預け在庫マスタ,M190,m190_custody_stock,預け在庫マスタ,,A27_MAZASPF,m190_預け在庫マスタ.xlsx,
+88,,m200_売価マスタ,M200,m200_selling_price,売価マスタ,,A30_MUTANPF,m200_売価マスタ.xlsx,
+89,,m210_得意先売上目標マスタ,M210,m210_customer_sales_targets,得意先売上目標マスタ,,A33_MJTOKPF,m210_得意先売上目標マスタ.xlsx,
+90,,m230_在庫受払マスタ,M230,m230_stock_accept_out,在庫受払マスタ,,A35_MZUKHPF,m230_在庫受払マスタ.xlsx,
+91,,m240_在庫受払実績マスタ,M240,m240_stock_accept_out_achievements,在庫受払実績マスタ,,A37_MJZUKPF,m240_在庫受払実績マスタ.xlsx,
+92,,m250_預け在庫受払マスタ,M250,m250_check_In_stock_receipt_payment,預け在庫受払マスタ,,A40_MAZSUPF,m250_預け在庫受払マスタ.xlsx,
+93,,m260_預け在庫受払実績マスタ,M260,m260_keep_stock_receipt_payment_achievements,預け在庫受払実績マスタ,,A41_MJAZSPF,m260_預け在庫受払実績マスタ.xlsx,
+94,,m270_預かり在庫受払マスタ,M270,m270_keep_stock_receipt_payment,預かり在庫受払マスタ,,A42_MAZTUPF,m270_預かり在庫受払マスタ.xlsx,
+95,,m280_預かり在庫受払実績マスタ,M280,m280_keep_stock_receipt_payment_achievements,預かり在庫受払実績マスタ,,A43_MJAZTPF,m280_預かり在庫受払実績マスタ.xlsx,
+96,,m300_取引先商品変換テーブル,M300,m300_client_products_convert,取引先商品変換テーブル,,A50_MHSYOPF,m300_取引先商品変換テーブル.xlsx,
+97,,M310_ダイキョー商品変換テーブル,M310,m310_daikyo_products_convert,ダイキョー商品変換テーブル,,A54_TBDSYPF,M310_ダイキョー商品変換テーブル.xlsx,
+98,,M320_ダイキョー倉庫変換テーブル,M320,m320_daikyo_stockroom_convert,ダイキョー倉庫変換テーブル,,A55_TBDSOPF,M320_ダイキョー倉庫変換テーブル.xlsx,
+99,,m330_艶区分マスタ,M330,m330_gloss_type,艶区分マスタ,,A56_MTUYAPF,m330_艶区分マスタ.xlsx,
+100,,m340_在庫最終仕入単価マスタ,M340,m340_stock_last_purchase_unit_price,在庫最終仕入単価マスタ,,A57_MZTANPF,m340_在庫最終仕入単価マスタ.xlsx,
+101,,m350_在庫最終預け仕入単価マスタ,M350,m350_stock_last_deposit_purchase_unit_price,在庫最終預け仕入単価マスタ,,A58_MATANPF,m350_在庫最終預け仕入単価マスタ.xlsx,
+102,,m360_危険物倉庫マスタ,M360,m360_dangerous_goods_stockroom,危険物倉庫マスタ,,A61_MKSOKPF,m360_危険物倉庫マスタ.xlsx,
