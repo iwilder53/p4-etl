@@ -103,4 +103,4 @@ This AWS Glue job performs ETL (Extract, Transform, Load) on inventory data stor
 
 ## Contact
 
-For further assistance or questions, please contact the Data Engineering team.
+For further assistance or questions, please contact Mr Takeuchi or Yash.
